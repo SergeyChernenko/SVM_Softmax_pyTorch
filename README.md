@@ -1,1 +1,1 @@
-# SVM
+# SVM && Softmax && pyTorch
